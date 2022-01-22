@@ -19,5 +19,8 @@
   "homepage": "https://github.com/danteocualesjr/My-First-ERC-20-Token#readme",
   "dependencies": {
     "dotenv": "^14.2.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.8.3"
   }
 }
