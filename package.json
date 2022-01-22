@@ -1,0 +1,23 @@
+{
+  "name": "my-erc20-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danteocualesjr/My-First-ERC-20-Token.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danteocualesjr/My-First-ERC-20-Token/issues"
+  },
+  "homepage": "https://github.com/danteocualesjr/My-First-ERC-20-Token#readme",
+  "dependencies": {
+    "dotenv": "^14.2.0"
+  }
+}
