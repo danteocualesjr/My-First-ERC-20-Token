@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/danteocualesjr/My-First-ERC-20-Token#readme",
   "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2",
     "dotenv": "^14.2.0"
   },
   "devDependencies": {
