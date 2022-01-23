@@ -7,7 +7,7 @@ async function main() {
 
     console.log("Account balance:", (await ethers.utils.formatEther(weiAmount)));
 
-    const Token = await ethers.getContractFactory("Cuales");
+    const Token = await ethers.getContractFactory("Tolken");
     const token = await Token.deploy();
 
     console.log("Token address:", token.address);
